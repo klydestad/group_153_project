@@ -1,2 +1,2 @@
 # Group 153 project
-An analysis between whether or not there is a correlation between whether or not an individual smokes, and the severity of their heart disease symptoms. 
+An analysis between whether or not a patient's age can be predicted by their heart disease symptoms.
