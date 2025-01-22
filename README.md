@@ -5,7 +5,7 @@ A data science project that explores relationships between heart disease symptom
 * Feature importance analysis
 * Age-related trend identification
 * Risk factor correlation studies
-<br/>
+
 ## Motivation
 Understanding the relationship between age and heart disease symptoms can help in early detection and prevention strategies.
 
@@ -21,12 +21,5 @@ Understanding the relationship between age and heart disease symptoms can help i
 * Environment: Jupyter Notebooks
 * Libraries: tidyverse, caret, ggplot2
 * Key concepts: Regression analysis, statistical modeling, collaborative development
-
-
-
-
-
-
-
 
 _This project was developed as part of DSCI 100 at UBC._
