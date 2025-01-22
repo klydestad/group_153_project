@@ -22,4 +22,6 @@ Understanding the relationship between age and heart disease symptoms can help i
 * Libraries: tidyverse, caret, ggplot2
 * Key concepts: Regression analysis, statistical modeling, collaborative development
 
-This project was developed as part of DSCI 100 at UBC.
+
+
+**This project was developed as part of DSCI 100 at UBC.**
